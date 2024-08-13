@@ -37,4 +37,4 @@ Power BI Desktop: To view and interact with the Power BI dashboard.
 This project provides a comprehensive analysis of the Titanic passenger data through detailed data analysis, predictive modeling, and interactive data visualization. The insights derived from this project can help in understanding the factors that influenced survival during the Titanic disaster.
 
 # Contact
-For any questions or feedback, please feel free to contact me via LinkedIn or email.
+For any questions or feedback, please feel free to contact me via linkedin.com/in/mayank-raut-318977301 or mayankraut09@gmail.com.
